@@ -10,7 +10,7 @@
 2. [DDPM](https://ycnaiekpok4f.feishu.cn/wiki/VI3Lw94Qniyy1zk6wzFcOg7Ln2b?from=from_copylink) (Denoising Diffusion Probabilistic Models)
 
 #### Code
-1. VAE with PyTorch
+1. [VAE with PyTorch](https://github.com/weiwei4396/Generative_AI/tree/main/dldemos/VAE)
 
 #### Biological Applications and Related Studies
 
