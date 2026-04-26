@@ -15,11 +15,11 @@
 
 ## Biological Applications and Related Studies
 
-#### Algorithm
+### Algorithm
 [Algorithm Notes](https://github.com/weiwei4396/Generative_AI/blob/main/Notes/algorithm.md)
 1. [2018_NM_scVI](https://www.nature.com/articles/s41592-018-0229-2)
 
-#### Survey
+### Survey
 [survey Notes](https://github.com/weiwei4396/Generative_AI/blob/main/Notes/biosurvey.md)
 1. [2026_NMI_Flow matching for generative modelling in bioinformatics and computational biology](https://www.nature.com/articles/s42256-026-01220-0)
 2. [2026_CB_Generative models of cell dynamics: from Neural ODEs to flow matching](https://www.nature.com/articles/s42003-026-09758-w)
