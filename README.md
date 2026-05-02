@@ -19,6 +19,7 @@
 ### Algorithm
 [Algorithm Notes](https://github.com/weiwei4396/Generative_AI/blob/main/Notes/algorithm.md)
 1. [2018_NM_scVI](https://www.nature.com/articles/s41592-018-0229-2)
+2. [2025_TMLR_scNODE](https://www.biorxiv.org/content/10.1101/2023.11.22.568346v2.full.pdf)
 
 ### Survey
 [survey Notes](https://github.com/weiwei4396/Generative_AI/blob/main/Notes/biosurvey.md)
