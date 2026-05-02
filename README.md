@@ -9,6 +9,7 @@
 ## Some my notes
 1. [VAE, Variational Auto-Encoder](https://ycnaiekpok4f.feishu.cn/wiki/I8yVwglWziMHuTkPWh6cEWEZncf?from=from_copylink)
 2. [DDPM] (Denoising Diffusion Probabilistic Models)
+3. [Flow matching](https://ycnaiekpok4f.feishu.cn/wiki/GMrTwuXP3iZPWnk2Y4RcGdZOnXc?from=from_copylink)
 
 ## Code
 1. [VAE with PyTorch](https://github.com/weiwei4396/Generative_AI/tree/main/dldemos/VAE)
