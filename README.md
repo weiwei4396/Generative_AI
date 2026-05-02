@@ -7,7 +7,7 @@
 
 
 ## Some my notes
-1. [VAE] (Variational Auto-Encoder)
+1. [VAE, Variational Auto-Encoder] (https://ycnaiekpok4f.feishu.cn/wiki/I8yVwglWziMHuTkPWh6cEWEZncf?from=from_copylink)
 2. [DDPM] (Denoising Diffusion Probabilistic Models)
 
 ## Code
